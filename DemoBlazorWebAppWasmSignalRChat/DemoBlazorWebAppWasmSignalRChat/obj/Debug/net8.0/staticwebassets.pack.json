@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/obj/Debug/net8.0/scopedcss/projectbundle/DemoBlazorWebAppWasmSignalRChat.bundle.scp.css",
+      "PackagePath": "staticwebassets/DemoBlazorWebAppWasmSignalRChat.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DemoBlazorWebAppWasmSignalRChat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DemoBlazorWebAppWasmSignalRChat.props",
+      "PackagePath": "build\\DemoBlazorWebAppWasmSignalRChat.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoBlazorWebAppWasmSignalRChat.props",
+      "PackagePath": "buildMultiTargeting\\DemoBlazorWebAppWasmSignalRChat.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoBlazorWebAppWasmSignalRChat.props",
+      "PackagePath": "buildTransitive\\DemoBlazorWebAppWasmSignalRChat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

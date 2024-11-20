@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "DemoBlazorWebAppWasmSignalRChat.Authentication.IdentityComponentsEnpointsRouteBuilderExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAdditionalIdentityEnpoints\u003Eb__0_0",
+    "RelativePath": "Account/Logout",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DemoBlazorWebAppWasmSignalRChat.Controllers.ChatController",
+    "Method": "GetGroupChatsAsync",
+    "RelativePath": "api/Chat/group-chats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoBlazorWebAppWasmSignalRChat.Controllers.ChatController",
+    "Method": "GetIndividualChatsAsync",
+    "RelativePath": "api/Chat/individual",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestChatDTO",
+        "Type": "ChatModels.DTOs.RequestChatDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoBlazorWebAppWasmSignalRChat.Controllers.ChatController",
+    "Method": "GetUsersAsync",
+    "RelativePath": "api/Chat/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

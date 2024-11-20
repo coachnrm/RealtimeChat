@@ -1,0 +1,16 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Authorization
+
+@code {
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationState { get; set; }
+
+    protected async override Task OnInitializedAsync()
+    {
+        var user = (await authenticationState).User;
+        if (user.Identity.IsAuthenticated == true)
+            NavManager.NavigateTo("/home");
+        else
+            NavManager.NavigateTo("/Account/Login");
+    }
+}

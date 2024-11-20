@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat.Client/obj/Debug/net8.0/compressed/xclccoz015.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat.Client/wwwroot/appsettings.Development.json",
+      "PackagePath": "staticwebassets/appsettings.Development.json"
+    },
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat.Client/wwwroot/appsettings.json",
+      "PackagePath": "staticwebassets/appsettings.json"
+    },
+    {
+      "Id": "/Users/home/Desktop/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat/DemoBlazorWebAppWasmSignalRChat.Client/wwwroot/script.js",
+      "PackagePath": "staticwebassets/script.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DemoBlazorWebAppWasmSignalRChat.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DemoBlazorWebAppWasmSignalRChat.Client.props",
+      "PackagePath": "build\\DemoBlazorWebAppWasmSignalRChat.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoBlazorWebAppWasmSignalRChat.Client.props",
+      "PackagePath": "buildMultiTargeting\\DemoBlazorWebAppWasmSignalRChat.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoBlazorWebAppWasmSignalRChat.Client.props",
+      "PackagePath": "buildTransitive\\DemoBlazorWebAppWasmSignalRChat.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
